@@ -32,9 +32,13 @@ J'ai cherché des liens mathématiques directs entre la technique audio et le su
 J'ai comparé les profils techniques des Top Titres (Top 10%) face aux échecs commerciaux.
 * **Résultat :** Les Hits sont légèrement plus dansants, mais les caractéristiques techniques se chevauchent beaucoup.
 
+![Matrice de corrélation](images/matrice_correlation.png)
+
 ### 3. Clustering Avancé (K-Means)
 J'ai utilisé un algorithme d'apprentissage non-supervisé pour regrouper les chansons par "ambiance" (Clusters) plutôt que par genre.
 * **Résultat :** J'ai identifié 4 familles de sons distinctes (Acoustique, Joyeux, Sombre/Rythmé, Agressif).
+
+![Graphique des clusters](images/type_sonorité.png)
 
 ---
 
