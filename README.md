@@ -26,6 +26,8 @@ J'ai mené l'enquête à travers trois axes d'analyse :
 J'ai cherché des liens mathématiques directs entre la technique audio et le succès.
 * **Résultat :** Aucune corrélation forte n'a été trouvée (coefficients < 0.2). Cela prouve qu'il n'existe pas de "recette magique" simple (ex: "plus c'est rapide, plus ça marche").
 
+![Matrice de corrélation](images/matrice_correlation.png)
+
 ### 2. Comparaison Hits vs Flops
 J'ai comparé les profils techniques des Top Titres (Top 10%) face aux échecs commerciaux.
 * **Résultat :** Les Hits sont légèrement plus dansants, mais les caractéristiques techniques se chevauchent beaucoup.
