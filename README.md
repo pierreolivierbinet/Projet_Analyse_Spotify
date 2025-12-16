@@ -1,6 +1,6 @@
 # 🎵 Analyse Stratégique de Données Musicales (Spotify)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pierreolivierbinet/Projet_Analyse_Spotify/blob/main/Analyse_Spotify_EDA.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pierreolivierbinet/Projet_Analyse_Spotify/blob/main/Analyse_Data_Spotify_POB.ipynb)
 
 ## 📋 Contexte du projet
 Ce projet a été réalisé dans le cadre de mon évaluation en "Atelier Développement".
