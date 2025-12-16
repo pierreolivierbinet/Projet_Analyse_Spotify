@@ -64,4 +64,4 @@ Si je devais conseiller un label musical sur la base de ces données :
 * **Environnement :** Google Colab.
 
 ---
-*Projet réalisé par [TON PRÉNOM NOM] - Janvier 2026*
+*Projet réalisé par PIERRE-OLIVIER BINET - Décembre 2025*
